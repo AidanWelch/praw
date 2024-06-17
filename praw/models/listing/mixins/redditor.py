@@ -1,4 +1,5 @@
 """Provide the RedditorListingMixin class."""
+
 from typing import TYPE_CHECKING, Any, Dict, Iterator, Union
 from urllib.parse import urljoin
 
