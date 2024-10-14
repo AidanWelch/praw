@@ -1,4 +1,5 @@
 """Provide the ReplyableMixin class."""
+
 from ....const import API_PATH
 from ...util import _deprecate_args
 
